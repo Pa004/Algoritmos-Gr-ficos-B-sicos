@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos_Graficos_Basicos", "Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos.csproj", "{D599C857-45CE-4772-A0B0-8E8F589B0729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D599C857-45CE-4772-A0B0-8E8F589B0729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D599C857-45CE-4772-A0B0-8E8F589B0729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D599C857-45CE-4772-A0B0-8E8F589B0729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D599C857-45CE-4772-A0B0-8E8F589B0729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854E8BDC-691B-4A72-98D6-2D8F834CFBA3}
+	EndGlobalSection
+EndGlobal

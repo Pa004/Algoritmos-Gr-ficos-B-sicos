@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\bin\Debug\Algoritmos_Graficos_Basicos.exe.config
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\bin\Debug\Algoritmos_Graficos_Basicos.exe
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\bin\Debug\Algoritmos_Graficos_Basicos.pdb
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.FrmBresenham.resources
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.FrmDDA.resources
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.FrmPrincipal.resources
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.FrmRelleno.resources
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.Properties.Resources.resources
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.exe
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.pdb
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.exe.config
+C:\Users\Asus\source\repos\Algoritmos_Graficos_Basicos\Algoritmos_Graficos_Basicos\obj\Debug\Algoritmos_Graficos_Basicos.FrmDiscCircunc.resources
